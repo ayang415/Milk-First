@@ -2,12 +2,13 @@
   text-align: center;
 }
 
-/*.bottom-text {
+.bottom-text {
   position: absolute;
-  bottom: 30px;
+  bottom: 10px;
   width: 100%;
   text-align: center;
-}*/
+  padding: 10px;
+}
 
 #center-button {
   display: flex;
@@ -35,7 +36,6 @@ img
 #cerealPour
 {
   z-index: 20;
-  width: 30%;
   height: 30%;
 }
 #finishedCereal
